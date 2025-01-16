@@ -21,19 +21,24 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+|   Ação   | Prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para e-book que terá o título “A Sociedade dos Juros Compostos: O Poder dos Investimentos”, com foco em Educação Financeira. Liste as principais formas de investimento em renda fixa que pessoas mais leigas podem aprender (CDB, LC, RDB, LCI/LCA, Tesouro Direto, Fundos de Investimento etc). A ideia central do e-book é a conquista da liberdade financeira no longo prazo devido aos juros compostos proporcionados pelos investimentos, em especial a renda fixa. {REGRAS} > Explique sempre de uma maneira simples > Deixe o texto enxuto > Dê exemplos > Deixe um texto sugestivo por tópico > Ter no mínimo 8 páginas e no máximo 10 páginas > Apresentar resumo e conclusão |
+| Conteúdo | Faça um texto para e-book que terá o título “A Sociedade dos Juros Compostos: O Poder dos Investimentos”, com foco em Educação Financeira. Liste as principais formas de investimento em renda fixa que pessoas mais leigas podem aprender (CDB, LC, RDB, LCI/LCA, Tesouro Direto, Fundos de Investimento etc). A ideia central do e-book é a conquista da liberdade financeira no longo prazo devido aos juros compostos proporcionados pelos investimentos, em especial a renda fixa. {REGRAS} > Explique sempre de uma maneira simples > Deixe o texto enxuto > Dê exemplos > Deixe um texto sugestivo por tópico > Ter no mínimo 8 páginas e no máximo 10 páginas > Apresentar resumo e conclusão |
 
-|
 
 
 MS Copilot：
 
-|  Ação  | prompt                                                                                 |
+|  Ação  | Prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | Título | Crie um título para um e-book sobre o tema Educação Financeira. O nicho são pessoas leigas. Subnicho é ter Liberdade Financeira com Renda Fixa. O título não deve ser grande e deve ser épico. Utilizar temática de “O Senhor dos Anéis” e listar 7 exemplos de títulos. |
+
+WhatsApp (Meta AI)：
+
+|  Ação  | Prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| Imagem | Você está no universo de O Senhor dos Anéis. Crie uma imagem onde os personagens guerreiros comemoram a liberdade financeira conquistada através dos investimentos. |
 
 ## ✨ Features
 
