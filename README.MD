@@ -3,7 +3,7 @@
 
 <p align="center">
 <img 
-    src="./assets/capa e-book.jpg"
+    src="./assets/Capa_E-book.jpg"
     width="350"  
 />
 </p>
