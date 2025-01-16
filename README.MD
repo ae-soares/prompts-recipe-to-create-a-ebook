@@ -42,12 +42,14 @@ WhatsApp (Meta AI)：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagem gerada via WhatsApp (Meta AI)
+- Título gerado via MS Copilot
+- Montagem e diagramação via Power Point
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagem utilizada em `assets`
+- ebook gerado durante em `output`
 
 ## 🛠️ Instruções de execução
 
@@ -58,4 +60,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Instrutor e originamente feito por [Felipe Aguiar](https://github.com/felipeAguiarCode)
