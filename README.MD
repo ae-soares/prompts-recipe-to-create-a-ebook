@@ -23,7 +23,6 @@ ChatGPT：
 
 |   Ação   | Prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
 | Conteúdo | Faça um texto para e-book que terá o título “A Sociedade dos Juros Compostos: O Poder dos Investimentos”, com foco em Educação Financeira. Liste as principais formas de investimento em renda fixa que pessoas mais leigas podem aprender (CDB, LC, RDB, LCI/LCA, Tesouro Direto, Fundos de Investimento etc). A ideia central do e-book é a conquista da liberdade financeira no longo prazo devido aos juros compostos proporcionados pelos investimentos, em especial a renda fixa. {REGRAS} > Explique sempre de uma maneira simples > Deixe o texto enxuto > Dê exemplos > Deixe um texto sugestivo por tópico > Ter no mínimo 8 páginas e no máximo 10 páginas > Apresentar resumo e conclusão |
 
 
