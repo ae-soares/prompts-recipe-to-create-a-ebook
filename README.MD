@@ -1,6 +1,12 @@
 
 # Projeto E-BOOK Gerado por I.A.s
 
+<p align="center">
+<img 
+    src="./assets/capa e-book.jpg"
+    width="350"  
+/>
+</p>
 
  > ℹ️ **NOTA:** Este é o repositório desenvolvido durante o curso de IA Generativa na plataforma da [DIO](https://dio.me)
 
